@@ -1,0 +1,39 @@
+body {
+    background-color: #c8e6c9;
+}
+.wrap {
+    width : 1000px;
+    height : 900px;
+    margin : auto;  
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    line-height: 100px;
+}
+.header {
+    background-color: #2e7d32;
+    height : 100px;
+}
+.nav {
+    background-color: #60ad5e;
+}
+.side {
+    float : left; /*이미지와 텍스트의 배치를 위해서 이미지를 띄우는 용도로 사용되었음 크기를 지정하여 레이아웃에서도 사용됨*/
+    width : 300px; 
+    height : 600px;
+    line-height: 600px;
+    background-color: #388e3c;
+}
+.contents {
+    width : 700px;
+    height : 600px;
+    line-height: 600px;
+    float:left;
+    background-color: #6abf69;
+}
+.footer {
+    float:left;
+    width: 1000px;
+    height:100px;
+    background-color: #81c784;
+}
